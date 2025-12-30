@@ -1,0 +1,39 @@
+{
+    "packs": [
+        {
+            "id": "whatsapp",
+            "name": "WhatsApp",
+            "file": "WhatsApp2.25.9.78.ttf"
+        },
+        {
+            "id": "samsung_oneui7",
+            "name": "Samsung OneUI 7",
+            "file": "SamsungOneUI7Beta.ttf"
+        },
+        {
+            "id": "twemoji",
+            "name": "Twitter/X",
+            "file": "Twemoji_v16.0.1.ttf"
+        },
+        {
+            "id": "blob",
+            "name": "Blob",
+            "file": "Blob16r2.ttf"
+        },
+        {
+            "id": "openmoji",
+            "name": "OpenMoji",
+            "file": "Openmoji_16.0.ttf"
+        },
+        {
+            "id": "harmonyos",
+            "name": "HarmonyOS",
+            "file": "HarmonyOS.ttf"
+        },
+        {
+            "id": "fluent_ui_3d",
+            "name": "Fluent UI 3D",
+            "file": "FluentUI3D_U15.1.ttf"
+        }
+    ]
+}
